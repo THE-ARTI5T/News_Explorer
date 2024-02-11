@@ -18,4 +18,5 @@ To use this application, simply open the `index.html` file in your web browser.
 - CSS
 - JavaScript
 
-![news](https://github.com/THE-ARTI5T/News-Explorer/assets/103200040/52745bfc-23f2-45dd-b041-bc734f481664)
+
+![news](https://github.com/THE-ARTI5T/News_Explorer/assets/103200040/afe0c5e4-ffa9-47a2-96b7-1522d93b509d)
